@@ -1,0 +1,749 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0b448d7b-723e-416a-8d7a-63cffbdbe6d9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-2071256189">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.1" value="3" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="77" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="20" />
+          <entry key="java" value="4791" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="4791" />
+          <entry key="PLAIN_TEXT" value="20" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/db/TestBookingsDb.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="95" column="77" lean-forward="true" selection-start-line="95" selection-start-column="77" selection-end-line="95" selection-end-column="77" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAOTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="325">
+              <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationDAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="247">
+              <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/model/Accommodation.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="394">
+              <caret line="91" column="52" lean-forward="true" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
+              <folding>
+                <element signature="e#532#533#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bookings_test</find>
+      <find>orders_test</find>
+      <find>accomodation_fair_relations</find>
+      <find>accomoda</find>
+      <find>accomodat</find>
+      <find>accommodations</find>
+      <find>acommo</find>
+      <find>accommo</find>
+      <find>accommodation_fair_relation</find>
+      <find>id_accommodation</find>
+      <find>accommodation</find>
+    </findStrings>
+    <dirStrings>
+      <dir>D:\Java Dev\Java\Booking</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/db/BookigDbException.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/db/BookingDb.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/AccomodationFairRelation.java" />
+        <option value="$PROJECT_DIR$/src/JDBCTest.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccomodationsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccomodationsRoomsRelationDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccomodationRoomsRelationDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccomodationsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccomodationsRoomsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/RoomsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccomodationDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccomodationRoomsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/Accomodation.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/RoomFair.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/AccomodationRoomRelation.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccomodationDAO.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccomodationDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLRoomsDAO.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLRoomsDAOTest.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomDAO.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/Accommodation.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationDAOTest.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/Main.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationDAO.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/model/AccommodationRoomRelation.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAOTest.java" />
+        <option value="$PROJECT_DIR$/Test/ro/siit/teo/booking/db/TestBookingsDb.java" />
+        <option value="$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAO.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="width" value="975" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Booking" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Booking" type="462c0819:PsiDirectoryNode" />
+              <item name="Test" type="462c0819:PsiDirectoryNode" />
+              <item name="booking" type="462c0819:PsiDirectoryNode" />
+              <item name="db" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548281453073" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../App/junit-4.10.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SQLAccommodationRoomsDAOTest">
+    <configuration name="SQLAccommodationDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.siit.teo.booking.dao.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.siit.teo.booking.dao.sql" />
+      <option name="MAIN_CLASS_NAME" value="ro.siit.teo.booking.dao.sql.SQLAccommodationDAOTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLAccommodationRoomsDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.siit.teo.booking.dao.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.siit.teo.booking.dao.sql" />
+      <option name="MAIN_CLASS_NAME" value="ro.siit.teo.booking.dao.sql.SQLAccommodationRoomsDAOTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLAccommodationRoomsDAOTest.whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.siit.teo.booking.dao.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.siit.teo.booking.dao.sql" />
+      <option name="MAIN_CLASS_NAME" value="ro.siit.teo.booking.dao.sql.SQLAccommodationRoomsDAOTest" />
+      <option name="METHOD_NAME" value="whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLAccommodationRoomsDAOTest.whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.siit.teo.booking.dao.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.siit.teo.booking.dao.sql" />
+      <option name="MAIN_CLASS_NAME" value="ro.siit.teo.booking.dao.sql.SQLAccommodationRoomsDAOTest" />
+      <option name="METHOD_NAME" value="whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SQLRoomsDAOTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Booking" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.siit.teo.booking.dao.sql.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ro.siit.teo.booking.dao.sql" />
+      <option name="MAIN_CLASS_NAME" value="ro.siit.teo.booking.dao.sql.SQLRoomsDAOTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.SQLRoomsDAOTest" />
+      <item itemvalue="JUnit.SQLAccommodationDAOTest" />
+      <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest" />
+      <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest.whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+      <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest.whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest" />
+        <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest.whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+        <item itemvalue="JUnit.SQLAccommodationRoomsDAOTest.whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" />
+        <item itemvalue="JUnit.SQLAccommodationDAOTest" />
+        <item itemvalue="JUnit.SQLRoomsDAOTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b448d7b-723e-416a-8d7a-63cffbdbe6d9" name="Default Changelist" comment="" />
+      <created>1547820784815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1547820784815</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SQLAccommodationRoomsDAOTest_whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics - 2019.01.23 at 23h 43m 15s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest.whenNewClientsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest_whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics - 2019.01.23 at 23h 52m 20s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest.whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest_whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics - 2019.01.23 at 23h 52m 40s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest.whenNewAccommodationRoomRelationsInsertedIntoDB_listAllReturnsThemWithEachOnesCharacteristics" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 01m 09s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 03m 15s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 07m 00s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 08m 19s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 08m 53s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 10m 24s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SQLAccommodationRoomsDAOTest - 2019.01.24 at 00h 10m 59s.xml">
+      <configuration name="SQLAccommodationRoomsDAOTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.13965885" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32893288" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32673267" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.40264025" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32893288" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAOTest.java</url>
+          <line>86</line>
+          <properties />
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/db/BookigsDbException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+          <folding>
+            <element signature="e#136#137#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="true" />
+            <element signature="e#205#206#0" expanded="true" />
+            <element signature="e#229#230#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/db/BookingsDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/JDBCTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="111" selection-start-line="26" selection-start-column="111" selection-end-line="26" selection-end-column="111" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/RoomsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccommodationDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="17" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/sql/Connection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="195" column="10" lean-forward="true" selection-start-line="195" selection-start-column="10" selection-end-line="195" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_152/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="172">
+          <caret line="497" selection-start-line="497" selection-end-line="497" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLRoomsDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/AccommodationRoomsRelationDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="36" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/../../App/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLRoomsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="479">
+          <caret line="57" selection-start-line="57" selection-end-line="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="10" lean-forward="true" selection-start-line="5" selection-start-column="10" selection-end-line="7" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/model/AccommodationRoomRelation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="e#1280#1281#0" expanded="true" />
+            <element signature="e#1348#1349#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/model/RoomFair.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="10" column="23" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/model/Accommodation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="91" column="52" lean-forward="true" selection-start-line="91" selection-start-column="52" selection-end-line="91" selection-end-column="52" />
+          <folding>
+            <element signature="e#532#533#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="27" column="69" lean-forward="true" selection-start-line="27" selection-start-column="69" selection-end-line="27" selection-end-column="69" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/db/TestBookingsDb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="57" column="44" selection-start-line="57" selection-start-column="44" selection-end-line="57" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAOTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="86" column="47" selection-start-line="86" selection-start-column="47" selection-end-line="86" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ro/siit/teo/booking/dao/sql/SQLAccommodationRoomsDAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="95" column="77" lean-forward="true" selection-start-line="95" selection-start-column="77" selection-end-line="95" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Booking</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>postgresql-9.4.1212.jre6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
